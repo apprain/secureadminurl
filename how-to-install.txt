@@ -1,0 +1,13 @@
+First unzip the downloaded file and follow below steps
+
+Method 1: 
+    1.	First Login to admin panel 
+    2.	Click on (Application) tab
+    3.	Click on (Install New Component)
+    4.	Select then .zip file ( Click on the Floppy Disk image on right side of the upload file input box)
+    6.	Click on Install Button. 
+    7.	After upload, this component will appear in the list.
+        Now click on "Activate" link blow description. 
+        
+How to use: 
+    Go to Application Tab and "Secure Admin URL". Entry the keyword to replace admin URL
